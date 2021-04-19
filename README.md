@@ -1,5 +1,14 @@
 # Tomnt
 
+
+facebockacker
+
+
+força total contra uma conta ele é eficaz muito na parte de invasão
+não me responsabilizo por maus uso dessa ferramenta....
+
+
+
 execute
 
 
