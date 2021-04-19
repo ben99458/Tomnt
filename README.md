@@ -1,8 +1,17 @@
 # Tomnt
-#execute
-#git clone git clone https://github.com/ben99458/Tomnt
 
-#cd Tomnt
-#ls
+execute
 
-#bash facebocracker.sh
+e
+git clone git clone https://github.com/ben99458/Tomnt
+
+
+
+cd Tomnt
+
+
+
+
+ls
+
+bash facebocracker.sh
